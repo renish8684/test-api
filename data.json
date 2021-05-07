@@ -3,32 +3,38 @@
 		{
 			"name" : "Foyou",
 			"version" : "Android 2",
-			"Apilevel" : "API 2",
+			"Apilevel" : "API 1",
 			"color" : "#ff0000"
 		},
 		{
-			"name" : "Foyou",
-			"version" : "Android 2",
-			"Apilevel" : "API 2",
-			"color" : "#ff0000"
-		},
-		{
-			"name" : "dg",
+			"name" : "cupcake",
 			"version" : "Android 3",
 			"Apilevel" : "API 2",
+			"color" : "#ff0000"
+		},
+		{
+			"name" : "cake",
+			"version" : "Android 4",
+			"Apilevel" : "API 3",
 			"color" : "#ffFF00"
 		},
 		{
-			"name" : "Foyou",
-			"version" : "Android 2",
-			"Apilevel" : "API 2",
+			"name" : "cup",
+			"version" : "Android 5",
+			"Apilevel" : "API 3",
 			"color" : "#ff0000"
 		},
 		{
-			"name" : "Foyou",
-			"version" : "Android 2",
-			"Apilevel" : "API 2",
+			"name" : "donut",
+			"version" : "Android 6",
+			"Apilevel" : "API 4",
 			"color" : "#ff0000"
+		},
+		{
+			"name":"icecream",
+			"version":"Android 7",
+			"Apilevel":"Api 5",
+			"color":"#ff0000"
 		}
 	]
 }
