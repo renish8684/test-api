@@ -30,11 +30,6 @@
 			"Apilevel" : "API 4",
 			"color" : "0xFFff0000"
 		},
-		{
-			"name":"icecream",
-			"version":"Android 7",
-			"Apilevel":"Api 5",
-			"color":"0xFFff0000"
-		}
+		
 	]
 }
