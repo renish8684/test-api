@@ -23,12 +23,6 @@
 			"version" : "Android 5",
 			"Apilevel" : "API 3",
 			"color" : "0xFFff0000"
-		},
-		{
-			"name" : "donut",
-			"version" : "Android 6",
-			"Apilevel" : "API 4",
-			"color" : "0xFFff0000"
 		}
 		
 	]
